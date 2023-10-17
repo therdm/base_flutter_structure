@@ -38,6 +38,8 @@ dependencies:
   go_router: ^8.0.5
   reactiv: ^0.3.4
 
+  graphics:
+    path: packages/graphics
   domain:
     path: packages/domain
   services:

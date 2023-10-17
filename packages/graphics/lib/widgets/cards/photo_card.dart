@@ -1,5 +1,6 @@
-import 'package:base_flutter/graphics/graphics_consts/consts.dart';
 import 'package:flutter/material.dart';
+
+import '../../graphics_consts/consts.dart';
 
 class PhotoCard extends StatelessWidget {
   const PhotoCard({

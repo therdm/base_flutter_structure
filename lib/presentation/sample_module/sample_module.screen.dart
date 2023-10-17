@@ -1,6 +1,7 @@
-import 'package:base_flutter/graphics/graphics_consts/consts.dart';
-import 'package:base_flutter/graphics/widgets/cards/photo_card.dart';
+
 import 'package:flutter/material.dart';
+import 'package:graphics/graphics_consts/graphics_string_consts.dart';
+import 'package:graphics/widgets/cards/photo_card.dart';
 import 'package:reactiv/reactiv.dart';
 import 'package:base_flutter/presentation/sample_module/controllers/sample_module.controller.dart';
 import 'package:services/network_state_manager/network_state/service_state_manager.dart';
